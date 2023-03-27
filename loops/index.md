@@ -37,7 +37,7 @@ for (variable of iterable) {
 Here, variable is a variable that is assigned the value of each element in the iterable object on each iteration, and iterable is the iterable object being iterated over.
 
 
-> In JavaScript, for...in and for...of loops are used for different purposes, and iterate over different types of data.
+In JavaScript, for...in and for...of loops are used for different purposes, and iterate over different types of data.
 
 > `for...in` loops are used to iterate over the enumerable properties of an object. The loop variable represents the property name for each iteration. For example:
 ```js
