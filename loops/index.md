@@ -47,7 +47,7 @@ for (const prop in obj) {
   console.log(prop); // logs "a", "b", "c"
 }
 ```
-> On the other hand, for...of loops are used to iterate over the values of an iterable object, such as an array or a string. The loop variable represents the value for each iteration. For example:
+> On the other hand, `for...of` loops are used to iterate over the values of an iterable object, such as an array or a string. The loop variable represents the value for each iteration. For example:
 
 ```js
 const arr = [1, 2, 3];
