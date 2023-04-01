@@ -6,7 +6,7 @@ Series of developing react
 1. Basics of JS(`Variables`,`Primitive types`,`Control flow`,`Loops`)
 2. Advanced/Custom types(`Objects`,`Map`,`Set`,`Arrays`,`Functions`)
 3. ES6 (`Modules`,`Classes`,`Const`/`Let`)
-
+4. Destructures and Spreads
 ----
 
 # React
